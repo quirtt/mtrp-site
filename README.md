@@ -29,6 +29,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
         - personal-detals
         - exam-details
         - payment
+
+So, for example, access [https://localhost:3000/register/personal-details](https://localhost:3000/register/personal-details)
+
         
 ## Learn More
 
