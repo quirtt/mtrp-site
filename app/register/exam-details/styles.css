@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.exam-centre-boxes {
+    @apply w-auto sm:w-80 pr-0 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500
+}
