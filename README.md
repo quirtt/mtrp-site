@@ -32,6 +32,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 So, for example, open [https://localhost:3000/register/personal-details](https://localhost:3000/register/personal-details) for personal-details page.
 
+## TODO
+- Add main page
+- Get better fonts
+- Ensure everything works for other aspect ratios.
+- More styling (?)
         
 ## Learn More
 
