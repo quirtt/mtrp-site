@@ -30,7 +30,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
         - exam-details
         - payment
 
-So, for example, access [https://localhost:3000/register/personal-details](https://localhost:3000/register/personal-details)
+So, for example, open [https://localhost:3000/register/personal-details](https://localhost:3000/register/personal-details) for personal-details page.
 
         
 ## Learn More
