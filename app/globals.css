@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -5,10 +6,16 @@
 
 @layer base {
   html {
-    @apply text-white text-lg;
+    @apply text-lg font-Inria_Sans;
     @apply antialiased;
   };
+  div {
+    @apply font-Inria_Sans;
+  };
   a {
-    @apply hover:text-gray-400
+    @apply font-Inria_Sans hover:text-gray-400;
+  };
+  button {
+    @apply font-Inria_Sans;
   };
 };

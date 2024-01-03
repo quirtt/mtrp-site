@@ -10,14 +10,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-      
-      colors: {
-        vuejs : {
-          100: "#A412BE",
-          200: "#FFF2BE",
-          300: "#AC23BE"
-        }
-      }
+      fontFamily: {
+        Inria_Sans: ['Inria Sans', 'sans-serif'],
+      },
     },
   },
   plugins: []

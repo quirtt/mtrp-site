@@ -3,7 +3,7 @@ import Header from '../../_components/header';
 import Footer from '../../_components/footer';
 import './styles.css';
 
-export default function Payment() {
+export default function Personal() {
   return (
     <div className='flex flex-col justify-between h-screen bg-[#EBEEF4]'>
       <Header></Header>
